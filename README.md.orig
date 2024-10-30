@@ -10,5 +10,9 @@ branch update
 
 main update2
 
-main update 03
+<<<<<<< HEAD
+
 this is hot fix 01
+=======
+main update 03
+>>>>>>> main
